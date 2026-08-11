@@ -14,20 +14,23 @@ Presented season champions and runners-up dynamically.
 Added player images and team logos to create an interactive and visually engaging dashboard.
 
 Used DAX measures, filtering, summarisation and context-based calculations to make the dashboard dynamically respond to the selected IPL season.
+
 🛠️ Tools & Technologies
-Power BI
-DAX
-Power Query
-Data Cleaning & Transformation
-Data Modelling
-Interactive Dashboard Design
+Power BI,
+DAX,
+Power Query,
+Data Cleaning & Transformation,
+Data Modelling,
+Interactive Dashboard Design,
+
 📊 Key DAX Concepts Used
-CALCULATE
-FILTER
-SUMMARIZE
-SELECTEDVALUE
-MAXX
-COUNTROWS
-VALUES
-RELATED
+
+CALCULATE,
+FILTER,
+SUMMARIZE,
+SELECTEDVALUE,
+MAXX,
+COUNTROWS,
+VALUES,
+RELATED,
 Variables (VAR).
